@@ -1,10 +1,10 @@
 ### Hi there, I'm Daniela👋
 
- 🌱 I’m currently studying for Java Web Developer.
+- 🌱 I’m currently studying for Java Web Developer.
 
 - 🔭 I’m have been involved in Java, JavaScript, HTML, CSS.
 
-Languages and Tools:    
+### Languages and Tools:    
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -22,6 +22,8 @@ Languages and Tools:
 ### :fire: My Stats :
 
 ![DaniStoilova GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniStoilova&theme=default_icons=true)
+
+### :fire: Most Used Languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniStoilova&layout=compact&theme=vision-default)](https://github.com/DaniStoilova/github-readme-stats)
 
