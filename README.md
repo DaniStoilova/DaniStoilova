@@ -1,4 +1,4 @@
-z### :woman_technologist: About Me :
+### :woman_technologist: About Me :
 
 ### Hi there, I'm Daniela👋
 
