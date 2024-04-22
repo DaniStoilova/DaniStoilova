@@ -1,8 +1,5 @@
 ### Hi there, I'm Daniela👋
 
-<!--
-**DaniStoilova/DaniStoilova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - :telescope: 🌱 I’m currently studying for Java Web Developer.
 
 - 🔭 I’m have been involved in Java, JavaScript, HTML, CSS.
