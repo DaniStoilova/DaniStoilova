@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniela👋
 
-- :telescope: 🌱 I’m currently studying for Java Web Developer.
+ 🌱 I’m currently studying for Java Web Developer.
 
 - 🔭 I’m have been involved in Java, JavaScript, HTML, CSS.
 
