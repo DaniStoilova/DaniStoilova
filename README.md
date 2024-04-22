@@ -8,6 +8,7 @@
 
 ### :hammer_and_wrench: Languages and Tools:    
 
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" **alt="Spring" width="40" height="40"/>
@@ -25,7 +26,7 @@
 
 ![DaniStoilova GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniStoilova&theme=default_icons=true)
 
-### :fire: Most Used Languages :
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniStoilova&layout=compact&theme=vision-default)](https://github.com/DaniStoilova/github-readme-stats)
 
