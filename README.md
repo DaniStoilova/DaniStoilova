@@ -16,7 +16,7 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" **alt="postman" width="50" height="50"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" **alt="postman" width="40" height="40"/> 
 </div>
 
 ### :fire: My Stats :
