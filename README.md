@@ -1,4 +1,4 @@
-### :woman_technologist: About Me :
+z### :woman_technologist: About Me :
 
 ### Hi there, I'm Daniela👋
 
@@ -24,7 +24,7 @@
 
 ### :fire: My Stats :
 
-!(https://github-readme-stats.vercel.app/api?username=DaniStoilova&theme=default_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=DaniStoilova&theme=default_icons=true)
 
 
 
