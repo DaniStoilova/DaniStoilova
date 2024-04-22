@@ -24,7 +24,7 @@
 
 ### :fire: My Stats :
 
-![DaniStoilova GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniStoilova&theme=default_icons=true)
+!(https://github-readme-stats.vercel.app/api?username=DaniStoilova&theme=default_icons=true)
 
 
 
